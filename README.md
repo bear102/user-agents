@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/bear102/user-agents/blob/380c1358c8bd342a130ef0c96fcb70ac175ced7d/img/my-User%20Agent.png" alt="Logo">
+  <img src="https://github.com/bear102/user-agents/blob/f3942ee3f999c851d4dac038e624cf5b304c381e/img/8d6c8be135ef5f130110710feba8a2d2.png" alt="Logo">
 </p>
 
 
