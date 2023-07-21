@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/bear102/user-agents/blob/380c1358c8bd342a130ef0c96fcb70ac175ced7d/img/my-User%20Agent.png" alt="Logo">
+</p>
+
+
+<p align="center">
   A repo of real user agents and scripts to get your own
 </p>
 
