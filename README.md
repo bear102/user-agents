@@ -28,8 +28,11 @@ You will see a bunch of server logs that look like this
 
 As you can see, there are user agents. We are able to isolate these User agents and then use [this python url parser](https://github.com/selwin/python-user-agents) to classify and filter these user agents.
 
+<br>
 
+***
 
+<br>
 
 ## Gathering Your Own User Agents
 
