@@ -1,6 +1,5 @@
 <p align="center">
-
-<img src="https://github.com/bear102/user-agents/blob/f4cc3bcbc1557a09af894d91d6466de7868c6a92/img/1314982.png"></img>
+  <img src="https://github.com/bear102/user-agents/blob/f4cc3bcbc1557a09af894d91d6466de7868c6a92/img/1314982.png" width="300" />
 </p>
 
 <p align="center">
