@@ -1,5 +1,5 @@
 <p align="center">
-  ![Logo](https://github.com/bear102/user-agents/blob/f4cc3bcbc1557a09af894d91d6466de7868c6a92/img/1314982.png)
+<a src="https://github.com/bear102/user-agents/blob/f4cc3bcbc1557a09af894d91d6466de7868c6a92/img/1314982.png"></a>
 </p>
 <p align="center">
 
