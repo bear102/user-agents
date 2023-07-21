@@ -3,15 +3,11 @@
 </p>
 
 <p align="center">
-User-Agents
+
+  A repo of real user agents and scripts to get your own
+
 </p>
 
-
-
-
-# User Agents
-
-Welcome to this repo filled with real user agents! This repository contains a collection of user agents filtered based on operating systems and browsers. It also provides a Python script to gather your own user agents and apply your own filters.
 
 
 ## Overview
