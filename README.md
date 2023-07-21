@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-
   A repo of real user agents and scripts to get your own
-
 </p>
 
 
