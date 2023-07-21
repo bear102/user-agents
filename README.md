@@ -5,7 +5,7 @@ Welcome to this repo filled with real user agents! This repository contains a co
 
 ## Overview
 
-A variety of real user agents can be useful in many situations. For example, it is vital to rotate agents while web scraping or making bots.
+A variety of real user agents can be useful in many situations. For example, it is vital to rotate agents while web scraping or making bots. Rotating user agents can also be really important in avoiding invasive tracking on the internet. (browser fingerprinting)[https://restoreprivacy.com/browser-fingerprinting/]
 
 In userAgents.zip, you will find the operating systems. Select an os and then you will see all the browsers.
 
