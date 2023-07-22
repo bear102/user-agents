@@ -5,7 +5,11 @@
 <p align="center">
   <img src="https://github.com/bear102/user-agents/blob/f3942ee3f999c851d4dac038e624cf5b304c381e/img/8d6c8be135ef5f130110710feba8a2d2.png" alt="Logo">
 </p>
-
+<p align="center">
+  <a href="https://github.com/bear102/tennis"><img src="https://img.shields.io/badge/GitHub-bear102-%2312100E.svg?style=flat&logo=github" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue" alt="Python">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+</p>
 
 <p align="center">
   A repo of real user agents and scripts to get your own
