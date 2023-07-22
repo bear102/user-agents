@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/bear102/user-agents/blob/f3942ee3f999c851d4dac038e624cf5b304c381e/img/8d6c8be135ef5f130110710feba8a2d2.png" alt="Logo">
+  <img src="https://github.com/bear102/user-agents/blob/ced538313e8190031a29febbd63559270c74bf2a/img/8d6c8be135ef5f130110710feba8a2d2.png" alt="Logo">
 </p>
 <p align="center">
   <a href="https://github.com/bear102/tennis"><img src="https://img.shields.io/badge/GitHub-bear102-%2312100E.svg?style=flat&logo=github" alt="GitHub"></a>
