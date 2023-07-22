@@ -19,13 +19,17 @@
 
 ## Overview
 
-More and more companies and websites are starting to innovate with invasive tracking methods, such as([browser fingerprinting](https://restoreprivacy.com/browser-fingerprinting/)). . This could lead to less privacy and more intrusive advertising on the internet. One way to thwart the trackers is by switching up your User Agent, which allows you to maintain more online privacy.
+More and more, companies and websites are starting to innovate and discover new highly invasive tracking methods, such as [browser fingerprinting](https://restoreprivacy.com/browser-fingerprinting/). This could lead to less privacy and more intrusive advertising on the internet. One way to thwart the trackers is by switching up your User Agent, which allows you to maintain more online privacy.
 
 Changing your user agent also proves useful when performing tasks like web scraping or creating bots, as it can help prevent you from getting blocked or banned.
 
-In userAgents.zip, you will find the operating systems. Select an os and then you will see all the browsers.
-
 Feel free to use these User agents in your futre projects!
+
+## Files Explanation
+In the `userAgents` folder, you will find more folders with different operating systems. Inside these subfolders, you will find the browser. For example, if you wanted Chrome and Windows agents, you would go to `userAgents/Windows/Chrome.txt`
+
+An explanation on how to use the two python files can be found down below.
+
 
 ### How I sourced these agents
 
