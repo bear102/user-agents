@@ -2,9 +2,7 @@
   <img src="https://github.com/bear102/user-agents/blob/f4cc3bcbc1557a09af894d91d6466de7868c6a92/img/1314982.png" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/bear102/user-agents/blob/ced538313e8190031a29febbd63559270c74bf2a/img/8d6c8be135ef5f130110710feba8a2d2.png" alt="Logo">
-</p>
+
 <p align="center">
   <a href="https://github.com/bear102/tennis"><img src="https://img.shields.io/badge/GitHub-bear102-%2312100E.svg?style=flat&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue" alt="Python">
