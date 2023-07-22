@@ -52,7 +52,7 @@ As you can see, there are user agents. We are able to isolate these User agents 
 
 ## Gathering Your Own User Agents
 
-1. Find some server logs on google `inurl:access filetype:log`
+1. To find some server logs on google, simply google `inurl:access filetype:log` (note: not all logs will work. Dont worry, there are plenty :D)
 2. Copy all the text and paste it into `logs.txt`
 3. pip install pyyaml ua-parser user-agents
 4. run `UAIdentifier.py`
